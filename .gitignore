@@ -1,0 +1,8 @@
+node_modules
+*.log
+uploads
+aurora-pos.db
+client/node_modules
+server/node_modules
+client/dist
+.env
